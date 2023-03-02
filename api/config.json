@@ -1,0 +1,12 @@
+{
+    "mongo_db_conn": "mongodb://localhost:27017/?maxPoolSize=20\u0026w=majority",
+    "root_user": {
+        "id": -1,
+        "username": "root",
+        "password": "root1995",
+        "display_name": "Super Admin",
+        "role_id": 1,
+        "avatar": "https://o.dlf.pt/dfpng/smallpng/52-528659_super-admin-icon-png-transparent-png.png",
+        "current_session": "sessionroot"
+    }
+}
